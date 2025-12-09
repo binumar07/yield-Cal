@@ -1,0 +1,5 @@
+{
+  "name": "AgriYield Calculator",
+  "description": "A smart agricultural yield calculator that estimates vegetable production and bag counts based on farm size for data collection.",
+  "requestFramePermissions": []
+}
